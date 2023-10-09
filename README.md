@@ -5,7 +5,12 @@ Homeworks for IASA NLP course
 
 ```
 ├── assignment_1 : directory for saving homework task 1
-│  └── CommonLi_EDA.ipynb : Jupyter Notebook with EDA and Baseline model
+│  │
+│  └── CommonLit_EDA.ipynb : Jupyter Notebook with EDA and Baseline model
+│
+├── assignment_2 : directory for saving homework task 2
+│  │
+│  └── Assigment2.ipynb : Feature Engineering and Feature selection
 │
 ├── environment.yaml
 │
